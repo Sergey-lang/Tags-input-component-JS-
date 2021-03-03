@@ -112,7 +112,7 @@ const tagTable = {
     },
 
     start() {
-        window.onload = this.getFromStorage()
+        this.getFromStorage()
         this.setListener()
     }
 }
