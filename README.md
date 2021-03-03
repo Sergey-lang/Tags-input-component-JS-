@@ -1,2 +1,3 @@
-"# Tags-input-component-JS-" 
-"# Tags-input-component-JS-" 
+###max tags = 5
+###min length input value = 1
+###max length input value = 10
